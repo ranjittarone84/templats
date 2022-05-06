@@ -1,0 +1,46 @@
+.container{width: 1180px; margin: 0 auto;}
+body{margin: 0;}
+*{ box-sizing: border-box;}
+.clear{clear: both;}
+
+.header{padding: 24px 0 15px;}
+.header .logo{float: left;}
+.header .logo .logo-Img{padding-left: 35px; float: left; }
+.header .logo .logo-Name{float: left; font-size: 43px; color: #038c8c; padding-top: 13px; padding-left: 10px; padding-bottom: 19px;}
+
+.header .nav{float: right; padding-top: 25px;}
+.header .nav ul{list-style: none; padding-top: 20px;}
+.header .nav ul li{display: inline; margin: 0 18px;}
+.header .nav ul li a{text-decoration: none; color: #6c6c6c; font-size: 20.35px; font-family: st Ryde; padding-bottom: 15px;}
+
+
+.banner img{width: 100%; padding-top: 20px;}
+
+
+.catagery .cat0{text-align: center; padding-top: 50PX;}
+
+
+.catagery .cat0 h2{font-size: 41px; font-family: Segoe WP N light; color: #636363; text-align: center; padding-bottom: 29PX;}
+.catagery .cat0 p{font-family: open sans regular; font-size: 15px; text-align: center; color: #9f9f9f;}
+.catagery .cat1{padding-top: 38px; padding-left: 67px; text-align: center;}
+
+.about{height: 697px; background: linear-gradient(to right,#01646C,#08968F); width: 100%; margin-top: 125px;}
+.about .about1 img{float: left; background: #01646C; width: 19.2%; height: 170px; text-align: center; padding-top: 53px;}
+.about .about2 img{float: left; background: #097B84; width: 16.16%; height: 170px; text-align: center; padding-top: 50px;}
+.about .about3 img{float: left; background: #118F99; width: 16.16%; height: 170px; text-align: center; padding-top: 43px;}
+.about .about4 img{float: left; background: #1DA0AA; width: 16.16%; height: 170px; text-align: center; padding-top: 47px;}
+.about .about5 img{float: left; background: #29B7C2; width: 16.16%; height: 170px; text-align: center; padding-top: 44px;}
+.about .about6 img{float: left; background: #3CCAD5; width: 16.16%; height: 170px; text-align: center; padding-top: 51px;}
+.about .about7{float: left; padding-left: 170px; padding-top: 120px;}
+.about .about8{padding-top: 350px;}
+.about .about8 h2{font-size: 40px; font-family: segoe WP Light; color: #ffffff;}
+.about .about8 p{font-size: 17px; font-family: segoe WP n light; color: #ffff; padding-top: 13px;}
+.about .about9 img{padding-top: 30px;}
+
+.content{height: 513px; width: 60%; text-align: center; } 
+.content .content1{ float: left; padding-top: 84px;}
+.content .content1 h1{font-size: 200.05px; color: #49D7B0; font-family: segoe WP black;}
+.content .content1 p{font-size: 74.5px; color: #49D7B0; font-family: segoe WP light;}
+.content .content2 img{float: right; height: 515px; width: 40%;}
+
+.footer{clear: both; padding-top: 40px; border-top: 1px solid #9F9F9F;text-align: center; padding-bottom: 40px; color: #9F9F9F;}
